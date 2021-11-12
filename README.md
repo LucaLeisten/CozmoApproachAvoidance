@@ -1,5 +1,5 @@
 # Cozmo approach or avoidance behaviors 
-This program will randomly choose to display a shuffled list of cozmo animations. The conditions are approach vs. avoidance. The data is saved in a CSV file, including the participant ID, the condition and the displayed animations.
+This program will randomly choose to display a shuffled list of predefined cozmo animations. The conditions are approach vs. avoidance. The data is saved in a CSV file, including the participant ID, the condition and the displayed animations.
 
 ## First setup
 1. Run conditions.py
